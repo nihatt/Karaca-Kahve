@@ -1,16 +1,17 @@
-# kahvesecim
+Karaca Coffee Mobile App
 
-A new Flutter project.
+Project is done with flutter. Not much effort is given to designing . It is an app that i developed for internship
 
-## Getting Started
+Main Page
 
-This project is a starting point for a Flutter application.
+![mainpage](https://user-images.githubusercontent.com/57851807/134415862-c0ce566e-3c0f-4080-9aaa-1db390a5265f.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Filter Page
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![filterpage](https://user-images.githubusercontent.com/57851807/134415958-4a675c88-3ffc-4bc6-947f-6cc84b872d7c.jpg)
+
+
+Details Page
+
+![detailspage](https://user-images.githubusercontent.com/57851807/134416012-3b821add-60b9-40fa-83e5-7bcb03d48437.jpg)
